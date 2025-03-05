@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hi! I'm a finance graduate currently pursuing the CFA designation. I'm passionate about financial analysis, quantitative finance, and algorithmic trading. To complement my finance expertise, I'm learning Python and SQL to build finance-focused projects, automate workflows, and analyze financial data efficiently.<br><br>🔥 Interests<br>📊 Quantitative Finance & Data Analysis<br>💹 Algorithmic Trading & Investment Strategies<br>🏦 Financial Modeling & Risk Management<br>🖥️ Python, SQL & Data Science for Finance<br>🛠️ Tech Skills<br>Python (Pandas, NumPy, Matplotlib, yFinance)<br>SQL (Data extraction, analysis, and reporting)<br>APIs & Web Scraping for financial data<br>🚀 Projects & Learning<br>I'm currently working on Python-based finance projects like stock analysis tools, automated trading scripts, and financial dashboards. Stay tuned for more!<br><br>📫 Let's Connect!<br>Feel free to reach out to discuss finance, coding, or collaborate on projects!
 
 
